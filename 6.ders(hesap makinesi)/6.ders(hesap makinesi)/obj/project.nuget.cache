@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zpC6vxex5soU8Khla9uEzEeDuoCI7SxQnO1HaLBElFmLz1uOqecxSCJsi1Vtf7dxmHuJfdLG5z8GckYbSNRl7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\İbrahim Hakkı\\Source\\Repos\\6.ders(hesap makinesi)\\6.ders(hesap makinesi)\\6.ders(hesap makinesi).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\İbrahim Hakkı\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\İbrahim Hakkı\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\İbrahim Hakkı\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

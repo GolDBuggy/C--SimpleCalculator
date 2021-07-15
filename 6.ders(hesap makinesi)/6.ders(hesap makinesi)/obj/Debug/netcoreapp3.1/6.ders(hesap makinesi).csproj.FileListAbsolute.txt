@@ -1,0 +1,15 @@
+C:\Users\İbrahim Hakkı\Source\Repos\6.ders(hesap makinesi)\6.ders(hesap makinesi)\bin\Debug\netcoreapp3.1\6.ders(hesap makinesi).exe
+C:\Users\İbrahim Hakkı\Source\Repos\6.ders(hesap makinesi)\6.ders(hesap makinesi)\bin\Debug\netcoreapp3.1\6.ders(hesap makinesi).deps.json
+C:\Users\İbrahim Hakkı\Source\Repos\6.ders(hesap makinesi)\6.ders(hesap makinesi)\bin\Debug\netcoreapp3.1\6.ders(hesap makinesi).runtimeconfig.json
+C:\Users\İbrahim Hakkı\Source\Repos\6.ders(hesap makinesi)\6.ders(hesap makinesi)\bin\Debug\netcoreapp3.1\6.ders(hesap makinesi).runtimeconfig.dev.json
+C:\Users\İbrahim Hakkı\Source\Repos\6.ders(hesap makinesi)\6.ders(hesap makinesi)\bin\Debug\netcoreapp3.1\6.ders(hesap makinesi).dll
+C:\Users\İbrahim Hakkı\Source\Repos\6.ders(hesap makinesi)\6.ders(hesap makinesi)\bin\Debug\netcoreapp3.1\6.ders(hesap makinesi).pdb
+C:\Users\İbrahim Hakkı\Source\Repos\6.ders(hesap makinesi)\6.ders(hesap makinesi)\obj\Debug\netcoreapp3.1\6.ders(hesap makinesi).csproj.AssemblyReference.cache
+C:\Users\İbrahim Hakkı\Source\Repos\6.ders(hesap makinesi)\6.ders(hesap makinesi)\obj\Debug\netcoreapp3.1\_6.ders_hesap_makinesi_.Form1.resources
+C:\Users\İbrahim Hakkı\Source\Repos\6.ders(hesap makinesi)\6.ders(hesap makinesi)\obj\Debug\netcoreapp3.1\6.ders(hesap makinesi).csproj.GenerateResource.cache
+C:\Users\İbrahim Hakkı\Source\Repos\6.ders(hesap makinesi)\6.ders(hesap makinesi)\obj\Debug\netcoreapp3.1\6.ders(hesap makinesi).AssemblyInfoInputs.cache
+C:\Users\İbrahim Hakkı\Source\Repos\6.ders(hesap makinesi)\6.ders(hesap makinesi)\obj\Debug\netcoreapp3.1\6.ders(hesap makinesi).AssemblyInfo.cs
+C:\Users\İbrahim Hakkı\Source\Repos\6.ders(hesap makinesi)\6.ders(hesap makinesi)\obj\Debug\netcoreapp3.1\6.ders(hesap makinesi).csproj.CoreCompileInputs.cache
+C:\Users\İbrahim Hakkı\Source\Repos\6.ders(hesap makinesi)\6.ders(hesap makinesi)\obj\Debug\netcoreapp3.1\6.ders(hesap makinesi).dll
+C:\Users\İbrahim Hakkı\Source\Repos\6.ders(hesap makinesi)\6.ders(hesap makinesi)\obj\Debug\netcoreapp3.1\6.ders(hesap makinesi).pdb
+C:\Users\İbrahim Hakkı\Source\Repos\6.ders(hesap makinesi)\6.ders(hesap makinesi)\obj\Debug\netcoreapp3.1\6.ders(hesap makinesi).genruntimeconfig.cache
